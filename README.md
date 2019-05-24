@@ -1,2 +1,2 @@
 # Otomasyon_Karsamtas
-Karsamtaş için yapılan otomasyon.
+Karsam Taşımacılık için yapılan otomasyon.
