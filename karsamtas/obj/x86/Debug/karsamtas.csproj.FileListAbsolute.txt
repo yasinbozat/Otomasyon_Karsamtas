@@ -1,0 +1,68 @@
+c:\users\zafer\documents\visual studio 2010\Projects\karsamtas\karsamtas\bin\Debug\karsamtas.exe
+c:\users\zafer\documents\visual studio 2010\Projects\karsamtas\karsamtas\bin\Debug\karsamtas.pdb
+c:\users\zafer\documents\visual studio 2010\Projects\karsamtas\karsamtas\obj\x86\Debug\karsamtas.Form1.resources
+c:\users\zafer\documents\visual studio 2010\Projects\karsamtas\karsamtas\obj\x86\Debug\karsamtas.Properties.Resources.resources
+c:\users\zafer\documents\visual studio 2010\Projects\karsamtas\karsamtas\obj\x86\Debug\karsamtas.csproj.GenerateResource.Cache
+c:\users\zafer\documents\visual studio 2010\Projects\karsamtas\karsamtas\obj\x86\Debug\karsamtas.exe
+c:\users\zafer\documents\visual studio 2010\Projects\karsamtas\karsamtas\obj\x86\Debug\karsamtas.pdb
+c:\users\zafer\documents\visual studio 2010\Projects\karsamtas\karsamtas\obj\x86\Debug\karsamtas.anasayfa.resources
+c:\users\zafer\documents\visual studio 2010\Projects\karsamtas\karsamtas\obj\x86\Debug\karsamtas.kayitEkle.resources
+C:\Users\Zafer\documents\visual studio 2010\Projects\karsamtas\karsamtas\obj\x86\Debug\karsamtas.csprojResolveAssemblyReference.cache
+C:\Users\Zafer\documents\visual studio 2010\Projects\karsamtas\karsamtas\obj\x86\Debug\karsamtas.kayitGoruntule.resources
+C:\Users\Zafer\documents\visual studio 2010\Projects\karsamtas\karsamtas\obj\x86\Debug\karsamtas.tasimaIrsaliyesi.resources
+C:\Users\Zafer\documents\visual studio 2010\Projects\karsamtas\karsamtas\obj\x86\Debug\karsamtas.arkaplan.resources
+C:\Users\Zafer\documents\visual studio 2010\Projects\karsamtas\karsamtas\obj\x86\Debug\karsamtas.topluTasima.resources
+C:\Users\Zafer\documents\visual studio 2010\Projects\karsamtas\karsamtas\obj\x86\Debug\karsamtas.fatura.resources
+C:\Users\Zafer\Desktop\KARSAMTAŞ\karsamtas\karsamtas\obj\x86\Debug\karsamtas.exe
+C:\Users\Zafer\Desktop\KARSAMTAŞ\karsamtas\karsamtas\obj\x86\Debug\karsamtas.pdb
+C:\Users\Zafer\Desktop\KARSAMTAŞ\karsamtas\karsamtas\bin\Debug\karsamtas.exe
+C:\Users\Zafer\Desktop\KARSAMTAŞ\karsamtas\karsamtas\bin\Debug\karsamtas.pdb
+C:\Users\Zafer\Desktop\KARSAMTAŞ\karsamtas\karsamtas\obj\x86\Debug\karsamtas.csprojResolveAssemblyReference.cache
+C:\Users\Zafer\Desktop\KARSAMTAŞ\karsamtas\karsamtas\obj\x86\Debug\karsamtas.anasayfa.resources
+C:\Users\Zafer\Desktop\KARSAMTAŞ\karsamtas\karsamtas\obj\x86\Debug\karsamtas.arkaplan.resources
+C:\Users\Zafer\Desktop\KARSAMTAŞ\karsamtas\karsamtas\obj\x86\Debug\karsamtas.fatura.resources
+C:\Users\Zafer\Desktop\KARSAMTAŞ\karsamtas\karsamtas\obj\x86\Debug\karsamtas.Form1.resources
+C:\Users\Zafer\Desktop\KARSAMTAŞ\karsamtas\karsamtas\obj\x86\Debug\karsamtas.kayitEkle.resources
+C:\Users\Zafer\Desktop\KARSAMTAŞ\karsamtas\karsamtas\obj\x86\Debug\karsamtas.kayitGoruntule.resources
+C:\Users\Zafer\Desktop\KARSAMTAŞ\karsamtas\karsamtas\obj\x86\Debug\karsamtas.Properties.Resources.resources
+C:\Users\Zafer\Desktop\KARSAMTAŞ\karsamtas\karsamtas\obj\x86\Debug\karsamtas.tasimaIrsaliyesi.resources
+C:\Users\Zafer\Desktop\KARSAMTAŞ\karsamtas\karsamtas\obj\x86\Debug\karsamtas.topluTasima.resources
+C:\Users\Zafer\Desktop\KARSAMTAŞ\karsamtas\karsamtas\obj\x86\Debug\karsamtas.csproj.GenerateResource.Cache
+C:\Users\Aygıt Yok\Desktop\KARSAMTAŞ2\karsamtas\karsamtas\obj\x86\Debug\karsamtas.exe
+C:\Users\Aygıt Yok\Desktop\KARSAMTAŞ2\karsamtas\karsamtas\obj\x86\Debug\karsamtas.pdb
+C:\Users\Aygıt Yok\Desktop\KARSAMTAŞ2\karsamtas\karsamtas\obj\x86\Debug\karsamtas.anasayfa.resources
+C:\Users\Aygıt Yok\Desktop\KARSAMTAŞ2\karsamtas\karsamtas\obj\x86\Debug\karsamtas.arkaplan.resources
+C:\Users\Aygıt Yok\Desktop\KARSAMTAŞ2\karsamtas\karsamtas\obj\x86\Debug\karsamtas.fatura.resources
+C:\Users\Aygıt Yok\Desktop\KARSAMTAŞ2\karsamtas\karsamtas\obj\x86\Debug\karsamtas.Form1.resources
+C:\Users\Aygıt Yok\Desktop\KARSAMTAŞ2\karsamtas\karsamtas\obj\x86\Debug\karsamtas.kayitEkle.resources
+C:\Users\Aygıt Yok\Desktop\KARSAMTAŞ2\karsamtas\karsamtas\obj\x86\Debug\karsamtas.kayitGoruntule.resources
+C:\Users\Aygıt Yok\Desktop\KARSAMTAŞ2\karsamtas\karsamtas\obj\x86\Debug\karsamtas.Properties.Resources.resources
+C:\Users\Aygıt Yok\Desktop\KARSAMTAŞ2\karsamtas\karsamtas\obj\x86\Debug\karsamtas.tasimaIrsaliyesi.resources
+C:\Users\Aygıt Yok\Desktop\KARSAMTAŞ2\karsamtas\karsamtas\obj\x86\Debug\karsamtas.topluTasima.resources
+C:\Users\Aygıt Yok\Desktop\KARSAMTAŞ2\karsamtas\karsamtas\obj\x86\Debug\karsamtas.csproj.GenerateResource.Cache
+C:\Users\Aygıt Yok\Desktop\KARSAMTAŞ2\karsamtas\karsamtas\bin\Debug\karsamtas.exe
+C:\Users\Aygıt Yok\Desktop\KARSAMTAŞ2\karsamtas\karsamtas\bin\Debug\karsamtas.pdb
+C:\Users\Aygıt Yok\Desktop\KARSAMTAŞ2\karsamtas\karsamtas\obj\x86\Debug\karsamtas.lisans.resources
+C:\Users\Aygıt Yok\Desktop\KARSAMTAŞ2\karsamtas\karsamtas\obj\x86\Debug\karsamtas.csprojResolveAssemblyReference.cache
+C:\Users\Aygıt Yok\Desktop\KARSAMTAŞ2\karsamtas\karsamtas\bin\Debug\karsamtas.exe.config
+C:\Users\Aygıt Yok\Desktop\KARSAMTAŞ2\karsamtas\karsamtas\obj\x86\Debug\karsamtas.csproj.CoreCompileInputs.cache
+C:\Users\Aygıt Yok\Desktop\KARSAMTAŞ2\karsamtas\karsamtas\obj\x86\Debug\karsamtas.csproj.CopyComplete
+C:\Users\Aygıt Yok\Desktop\KARSAMTAŞ\karsamtas\karsamtas\bin\Debug\karsamtas.exe.config
+C:\Users\Aygıt Yok\Desktop\KARSAMTAŞ\karsamtas\karsamtas\bin\Debug\karsamtas.exe
+C:\Users\Aygıt Yok\Desktop\KARSAMTAŞ\karsamtas\karsamtas\bin\Debug\karsamtas.pdb
+C:\Users\Aygıt Yok\Desktop\KARSAMTAŞ\karsamtas\karsamtas\obj\x86\Debug\karsamtas.csprojResolveAssemblyReference.cache
+C:\Users\Aygıt Yok\Desktop\KARSAMTAŞ\karsamtas\karsamtas\obj\x86\Debug\karsamtas.anasayfa.resources
+C:\Users\Aygıt Yok\Desktop\KARSAMTAŞ\karsamtas\karsamtas\obj\x86\Debug\karsamtas.arkaplan.resources
+C:\Users\Aygıt Yok\Desktop\KARSAMTAŞ\karsamtas\karsamtas\obj\x86\Debug\karsamtas.fatura.resources
+C:\Users\Aygıt Yok\Desktop\KARSAMTAŞ\karsamtas\karsamtas\obj\x86\Debug\karsamtas.Form1.resources
+C:\Users\Aygıt Yok\Desktop\KARSAMTAŞ\karsamtas\karsamtas\obj\x86\Debug\karsamtas.kayitEkle.resources
+C:\Users\Aygıt Yok\Desktop\KARSAMTAŞ\karsamtas\karsamtas\obj\x86\Debug\karsamtas.kayitGoruntule.resources
+C:\Users\Aygıt Yok\Desktop\KARSAMTAŞ\karsamtas\karsamtas\obj\x86\Debug\karsamtas.lisans.resources
+C:\Users\Aygıt Yok\Desktop\KARSAMTAŞ\karsamtas\karsamtas\obj\x86\Debug\karsamtas.Properties.Resources.resources
+C:\Users\Aygıt Yok\Desktop\KARSAMTAŞ\karsamtas\karsamtas\obj\x86\Debug\karsamtas.tasimaIrsaliyesi.resources
+C:\Users\Aygıt Yok\Desktop\KARSAMTAŞ\karsamtas\karsamtas\obj\x86\Debug\karsamtas.topluTasima.resources
+C:\Users\Aygıt Yok\Desktop\KARSAMTAŞ\karsamtas\karsamtas\obj\x86\Debug\karsamtas.csproj.GenerateResource.cache
+C:\Users\Aygıt Yok\Desktop\KARSAMTAŞ\karsamtas\karsamtas\obj\x86\Debug\karsamtas.csproj.CoreCompileInputs.cache
+C:\Users\Aygıt Yok\Desktop\KARSAMTAŞ\karsamtas\karsamtas\obj\x86\Debug\karsamtas.csproj.CopyComplete
+C:\Users\Aygıt Yok\Desktop\KARSAMTAŞ\karsamtas\karsamtas\obj\x86\Debug\karsamtas.exe
+C:\Users\Aygıt Yok\Desktop\KARSAMTAŞ\karsamtas\karsamtas\obj\x86\Debug\karsamtas.pdb
